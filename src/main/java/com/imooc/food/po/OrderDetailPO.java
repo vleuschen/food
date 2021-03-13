@@ -35,5 +35,5 @@ public class OrderDetailPO {
     private BigDecimal price;
 
     private Date date;
-    
+
 }
